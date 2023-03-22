@@ -1,0 +1,53 @@
+Welcome to Microsoft Telnet Service 
+login: Welcome to Microsoft Telnet Service 
+login: tteellnneett
+password: 
+password: 
+The handle is invalid.
+Login Failed
+login: 
+The handle is invalid.
+Login Failed
+login: tteellnneett
+password: 
+password: 
+[1;1H*
+=============================================================== 
+[2;
+1HMicrosoft Telnet Server. 
+[3;1H*=============================================================== 
+[4;1HC:\Users\telnet>
+[5;1H[K[6;1H[K[7;1H[K[8;1H[K[9;1H[K[10;1H[K[11;1H[K[12;1H[K[13;1H[K[14;1H[K[15;1H[K[16;1H[K[17;1H[K[18;1H[K[19;1H[K[20;1H[K[21;1H[K[22;1H[K[23;1H[K[24;1H[K[25;1H[K[26;1H[K[27;1H[K[4;17H[1;
+1H*===============================================================
+[2;1HMicrosoft Telnet Server.
+[3;1H*===============================================================
+[4;1HC:\Users\telnet>
+[5;1H[K[6;1H[K[7;1H[K[8;1H[K[9;1H[K[10;1H[K[11;1H[K[12;1H[K[13;1H[K[14;1H[K[15;1H[K[16;1H[K[17;1H[K[18;1H[K[19;1H[K[20;1H[K[21;1H[K[22;1H[K[23;1H[K[24;1H[K[25;1H[K[26;1H[K[27;1H[K[4;17Hddiirr[5;
+2HVolume in drive C has no label.[6;
+2HVolume Serial Number is E6B3-DB21[8;
+2HDirectory of C:\Users\telnet
+[10;1H03/21/2023  02:13 PM    <DIR>          .
+[11;1H03/21/2023  02:13 PM    <DIR>          .
+.[12;1H07/14/2009  06:04 AM    <DIR>          
+Desktop[13;1H03/21/2023  02:13 PM    <DIR>     
+Documents[14;1H07/14/2009  06:04 AM    <DIR>   
+Downloads[15;1H07/14/2009  06:04 AM    <DIR>   
+Favorites[16;1H07/14/2009  06:04 AM    <DIR>   
+Links[17;1H07/14/2009  06:04 AM    <DIR>       
+Music[18;1H07/14/2009  06:04 AM    <DIR>       
+Pictures[19;1H07/14/2009  06:04 AM    <DIR>    
+Saved Games[20;1H07/14/2009  06:04 AM    <DIR> 
+Videos[21;16H0 File(s)            
+0 bytes[22;15H11 Dir(s)  47,280,959,488 bytes free[24;1HC:\Users\telnet>[5;2HVolume in drive C has no label.[6;
+2HVolume Serial Number is E6B3-DB21[8;2HDirectory of C:\Users\telnet[10;1H03/21/2023  02:13 PM    
+<DIR>          
+.[11;1H03/21/2023  02:13 PM    <DIR>          ..[12;1H07/14/2009  06:04 AM    <DIR>         
+ Desktop[13;1H03/21/2023  02:13 PM    <DIR>          Documents[14;1H07/14/2009  06:04 AM    <DIR>  
+         Downloads[15;1H07/14/2009  06:04 AM    <DIR>          Favorites[16;1H07/14/2009  06:04 AM    
+         <DIR>          Links[17;1H07/14/2009  06:04 AM    <DIR>          Music[18;1H07/14/2009  06:04 AM 
+            <DIR>          Pictures[19;1H07/14/2009  06:04 AM    <DIR>          Saved Games[20;1H07/14/2009
+              06:04 AM    <DIR>          Videos[21;16H0 File(s)              
+              0 bytes[22;15H11 Dir(s)  47,280,959,488 bytes free[24;1H
+              C:\Users\telnet>ss[24;17H [24;17H[24;17H [24;17Hll[24;17H [24;17H[24;17H [24;17Hccdd[24;20H
+              [24;20HCC::[25;1HC:\Users\telnet[27;1H
+C:\Users\telnet>[25;1HC:\Users\telnet[27;1HC:\Users\telnet>
